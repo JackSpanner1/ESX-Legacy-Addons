@@ -9,4 +9,4 @@ files {
 	'stream/*.ytyp'
 }
 
-data_file 'DLC_ITYP_REQUEST' 'stream/handcuffs.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/[halloween_props]/handcuffs.ytyp'
